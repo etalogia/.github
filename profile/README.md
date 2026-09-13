@@ -1,4 +1,4 @@
-## Etalogía
+## EtalogÍA
 
 Etalogía builds tools that turn academic submissions into publication-ready
 books. The first of them sets conference proceedings: one path from the
