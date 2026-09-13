@@ -1,6 +1,6 @@
 ## EtalogÍA
 
-Etalogía builds tools that turn academic submissions into publication-ready
+EtalogÍA builds tools that turn academic submissions into publication-ready
 books. The first of them sets conference proceedings: one path from the
 submission form to a typeset volume, without anyone having to touch LaTeX.
 
